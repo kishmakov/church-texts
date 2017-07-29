@@ -1,6 +1,6 @@
 # Collection of church texts / Коллекция церковных текстов
 
-* chu = црькъвьнословѣ́ньскъ ѩꙁꙑ́къ / church slavonic
+* chu = црькъвьнословѣ́ньскъ / church slavonic
 * el = ελληνικά / greek
 * ru = русский / russian
 
