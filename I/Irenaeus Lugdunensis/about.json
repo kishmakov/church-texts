@@ -9,23 +9,26 @@
 	"texts": {
 		"Adversus haereses" : {
 			"ru": {
+				"name": "Против ересей",
 				"about" : {
-
 				},
 				"parts": {
-					"1": "ru_against_heresies_1.md"
+					"1": "ru_against_heresies_1"
 				},
 				"source" : {
-					"comment": "Обновлённый редакцией сайта «Азбука Веры» русский перевод протоиерея П.Преображенского.",
+					"comment": "Обновлённый редакцией сайта «Азбука Веры» русский перевод протоиерея П. Преображенского.",
 					"site": "azbyka.ru"
 				}
 			},
-			"raw": [
-				"Adversus haereses libri 1_2.pdf",
-				"Adversus haereses libri 3.pdf",
-				"Adversus haereses libri 4.pdf",
-				"Adversus haereses libri 5.pdf"
-			]
+			"el": {
+				"name": "Κατά των Αιρέσεων",
+				"raw": [
+					"Adversus haereses libri 1_2.pdf",
+					"Adversus haereses libri 3.pdf",
+					"Adversus haereses libri 4.pdf",
+					"Adversus haereses libri 5.pdf"
+				]
+			}
 		}
 	}
 }
