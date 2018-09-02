@@ -1,0 +1,31 @@
+{
+	"id": "Irenaeus Lugdunensis",
+	"author": {
+		"ru": "Ириней Лионский",
+		"en": "Irenaeus",
+		"la": "Irenaeus Lugdunensis",
+		"el": "Ειρηναίος Λουγδούνου"
+	},
+	"texts": {
+		"Adversus haereses" : {
+			"ru": {
+				"about" : {
+
+				},
+				"parts": {
+					"1": "ru_against_heresies_1.md"
+				},
+				"source" : {
+					"comment": "Обновлённый редакцией сайта «Азбука Веры» русский перевод протоиерея П.Преображенского.",
+					"site": "azbyka.ru"
+				}
+			},
+			"raw": [
+				"Adversus haereses libri 1_2.pdf",
+				"Adversus haereses libri 3.pdf",
+				"Adversus haereses libri 4.pdf",
+				"Adversus haereses libri 5.pdf"
+			]
+		}
+	}
+}
