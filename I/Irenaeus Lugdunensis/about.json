@@ -1,10 +1,17 @@
 {
 	"id": "Irenaeus Lugdunensis",
-	"author": {
-		"ru": "Ириней Лионский",
-		"en": "Irenaeus",
-		"la": "Irenaeus Lugdunensis",
-		"el": "Ειρηναίος Λουγδούνου"
+	"about": {
+		"ru": {
+			"name": "Ириней Лионский",
+			"short": "Один из первых Отцов Церкви, ведущий богослов II века и апологет, второй епископ Лиона. Принадлежал к малоазийской богословской школе."
+		},
+		"en": {
+			"name": "Irenaeus"
+		},
+		"el": {
+			"name": "Ειρηναίος Λουγδούνου"
+		},
+		"saint": true
 	},
 	"texts": {
 		"Adversus haereses" : {
