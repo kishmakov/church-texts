@@ -1,0 +1,26 @@
+{
+	"id": "Patriarchae Orientales Synodi",
+	"about": {
+		"ru": {
+			"name": "Собор восточных Патриархов",
+			"short": "Составлено в Константинополе в сентябре 1723 года."
+		},
+		"saint": true
+	},
+	"texts": {
+		"Obsequium" : {
+			"ru": {
+				"name": "Послание патриархов о православной вере",
+				"about" : {
+				},
+				"parts": {
+					"1": "ru_pastoral_of_the_patriarchs"
+				},
+				"source" : {
+					"comment": "По материалам сайта Антимодернизм.ру",
+					"site": "antimodern.ru"
+				}
+			}
+		}
+	}
+}
