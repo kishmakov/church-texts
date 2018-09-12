@@ -16,12 +16,15 @@
 	"texts": {
 		"Adversus haereses" : {
 			"ru": {
-				"name": "Против ересей",
+				"name": "Обличение и опровержение лжеименного знания",
+				"other_name": "Против ересей",
 				"about" : {
 				},
-				"parts": {
-					"1": "ru_against_heresies_1"
-				},
+				"parts": [{
+					"id": "ru_against_heresies_1",
+					"name": "Книга первая",
+					"number": 1
+				}],
 				"source" : {
 					"comment": "Обновлённый редакцией сайта «Азбука Веры» русский перевод протоиерея П. Преображенского.",
 					"site": "azbyka.ru"
